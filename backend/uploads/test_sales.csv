@@ -1,0 +1,13 @@
+Date,Product,Category,Sales,Profit,Quantity
+2026-01-01,Laptop,Electronics,120000,25000,5
+2026-01-05,Phone,Electronics,80000,18000,8
+2026-01-10,Chair,Furniture,30000,7000,10
+2026-01-15,Table,Furniture,45000,9000,6
+2026-02-01,Laptop,Electronics,150000,32000,6
+2026-02-05,Phone,Electronics,95000,21000,9
+2026-02-10,Chair,Furniture,35000,8000,12
+2026-02-15,Table,Furniture,50000,11000,7
+2026-03-01,Laptop,Electronics,180000,40000,7
+2026-03-05,Phone,Electronics,110000,25000,10
+2026-03-10,Chair,Furniture,40000,9000,13
+2026-03-15,Table,Furniture,55000,12000,8

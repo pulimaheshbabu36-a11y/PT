@@ -1,0 +1,51 @@
+Patient_ID,Name,Age,Gender,Diagnosis,Stay_Days,Treatment_Cost,Status
+P0001,Kiran,35,Male,Asthma,8,39217,Discharged
+P0002,Arun,37,Female,Asthma,15,17733,Under Treatment
+P0003,Naveen,74,Female,Diabetes,10,5840,Under Treatment
+P0004,Naveen,59,Female,Fracture,4,17390,Under Treatment
+P0005,Ajay,66,Female,Fever,10,16545,Under Treatment
+P0006,Ajay,42,Female,Fever,1,44137,Discharged
+P0007,Swathi,11,Female,Infection,13,49835,Recovered
+P0008,Vikram,50,Female,Diabetes,11,42721,Discharged
+P0009,Priya,22,Female,Fracture,13,7367,Under Treatment
+P0010,Kiran,9,Male,Infection,15,24911,Under Treatment
+P0011,Anjali,46,Male,Fracture,3,28230,Discharged
+P0012,Ravi,51,Male,Infection,5,33885,Under Treatment
+P0013,Sneha,42,Female,Fracture,2,23198,Recovered
+P0014,Ajay,33,Female,Migraine,2,45323,Under Treatment
+P0015,Sneha,6,Female,Hypertension,6,36164,Discharged
+P0016,Meena,38,Male,Infection,11,25970,Recovered
+P0017,Harini,65,Female,Fever,15,41602,Discharged
+P0018,Naveen,33,Female,Fracture,11,5142,Under Treatment
+P0019,Priya,19,Female,Diabetes,8,3971,Recovered
+P0020,Kiran,17,Female,Diabetes,8,36228,Under Treatment
+P0021,Kiran,74,Female,Asthma,11,39491,Recovered
+P0022,Ravi,67,Male,Infection,12,27746,Under Treatment
+P0023,Divya,32,Female,Asthma,2,30143,Discharged
+P0024,Meena,52,Male,Infection,7,43259,Under Treatment
+P0025,Rahul,29,Male,Fever,11,30800,Discharged
+P0026,Divya,7,Male,Fever,13,22856,Discharged
+P0027,Vikram,31,Male,Fever,14,37320,Recovered
+P0028,Keerthi,47,Male,Migraine,5,10670,Recovered
+P0029,Anjali,21,Male,Infection,11,17426,Recovered
+P0030,Divya,21,Female,Fever,1,24477,Recovered
+P0031,Kavya,38,Male,Fever,12,9307,Recovered
+P0032,Manoj,65,Male,Asthma,8,24726,Discharged
+P0033,Manoj,33,Female,Infection,8,3841,Discharged
+P0034,Ajay,8,Female,Fever,11,32390,Recovered
+P0035,Rahul,67,Male,Fracture,6,30069,Discharged
+P0036,Ravi,23,Female,Fever,7,9270,Discharged
+P0037,Manoj,72,Female,Hypertension,2,30734,Discharged
+P0038,Harini,19,Male,Migraine,7,43907,Under Treatment
+P0039,Naveen,34,Female,Asthma,7,23212,Discharged
+P0040,Suresh,17,Female,Hypertension,6,28968,Recovered
+P0041,Rahul,65,Male,Fever,7,6978,Recovered
+P0042,Harini,52,Male,Migraine,10,9527,Discharged
+P0043,Sneha,76,Female,Hypertension,6,44909,Discharged
+P0044,Priya,59,Female,Migraine,10,48255,Under Treatment
+P0045,Manoj,50,Male,Fever,3,38874,Discharged
+P0046,Meena,66,Female,Diabetes,2,8092,Under Treatment
+P0047,Harini,78,Male,Diabetes,10,29122,Discharged
+P0048,Ravi,39,Female,Fever,15,12823,Under Treatment
+P0049,Kiran,49,Female,Fever,2,12888,Recovered
+P0050,Manoj,8,Male,Fever,7,49897,Under Treatment
